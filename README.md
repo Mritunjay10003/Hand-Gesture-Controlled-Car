@@ -123,8 +123,8 @@ Such a system has the potential to revolutionize how we interact with machines, 
 - Libraries: `SPI.h`, `RF24.h`
 
 ### 📂 Code Files:
-- `transmitter.ino`: Captures hand gesture data and sends it over RF.
-- `receiver.ino`: Receives gesture data and controls motors accordingly.
+- `GESTURE_TRANSMITTER_CODE.ino`: Captures hand gesture data and sends it over RF.
+- `GESTURE_RECIEVER_CODE.ino`: Receives gesture data and controls motors accordingly.
 
 
 
